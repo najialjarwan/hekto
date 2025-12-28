@@ -16,30 +16,34 @@ const Promotion = () => {
                 src="src/assets/images/image 32.png"
                 alt="Lamp"
                 className='
-                    absolute top-0 left-[70px]'
+                absolute top-0 left-[70px]'
             />
 
-            <div className='
+            <div 
+                className='
                 absolute top-[203px] left-[375px]
                 flex flex-col items-start gap-3
                 text-left'
             >
 
-                <p className='
+                <p 
+                    className='
                     text-accent text-paragraph/[28px] font-secondary font-bold'
                 >
                     Best Furniture For Your Castle....
                 </p>
 
-                <p className='
+                <p 
+                    className='
                     w-[644px]
                     text-black text-[53px]/[75px] font-primary font-bold not-italic tracking-[1.5%]'
                 >
                     New Furniture Collection Trends in 2020
                 </p>
 
-                <p className='
-                    w-[560px]
+                <p 
+                    className='
+                    w-[560px] mb-[17px]
                     text-sub-text text-paragraph/[28px] font-secondary font-bold'
                 >
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Magna in est adipiscingin phasellus non in justo.

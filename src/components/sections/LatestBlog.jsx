@@ -6,21 +6,21 @@ const blogContent = [
         author: "Sober Ali",
         date: "21 August,2020",
         title: "Top esssential Trends in 2021",
-        text: "More off this less hello samlande lied muchover tightly circa horse taped mightly",
+        text: "More off this less hello samlande lied much over tightly circa horse taped mightly",
     },
     {
         image: "src/assets/images/2dcYhvbHV-M.png",
         author: "Sober Ali",
         date: "21 August,2020",
         title: "Top esssential Trends in 2021",
-        text: "More off this less hello samlande lied muchover tightly circa horse taped mightly",
+        text: "More off this less hello samlande lied much over tightly circa horse taped mightly",
     },
     {
         image: "src/assets/images/2dcYhvbHV-M-1.png",
         author: "Sober Ali",
         date: "21 August,2020",
         title: "Top esssential Trends in 2021",
-        text: "More off this less hello samlande lied muchover tightly circa horse taped mightly",
+        text: "More off this less hello samlande lied much over tightly circa horse taped mightly",
     },
 ]
 

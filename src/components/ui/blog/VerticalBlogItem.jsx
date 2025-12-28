@@ -6,7 +6,7 @@ const VerticalBlogItem = ({ content }) => {
             className="
             w-fit h-fit
             flex flex-col items-start
-            shadow-2
+            bg-white shadow-2
             group"
         >
 
