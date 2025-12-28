@@ -1,5 +1,6 @@
+import VerticalBlogItem from "@blog/VerticalBlogItem";
 
-const blogItems = [
+const blogContent = [
     {
         image: "src/assets/images/JIUjvqe2ZHg.png",
         author: "Sober Ali",
@@ -8,14 +9,14 @@ const blogItems = [
         text: "More off this less hello samlande lied muchover tightly circa horse taped mightly",
     },
     {
-        image: "src/assets/images/JIUjvqe2ZHg.png",
+        image: "src/assets/images/2dcYhvbHV-M.png",
         author: "Sober Ali",
         date: "21 August,2020",
         title: "Top esssential Trends in 2021",
         text: "More off this less hello samlande lied muchover tightly circa horse taped mightly",
     },
     {
-        image: "src/assets/images/JIUjvqe2ZHg.png",
+        image: "src/assets/images/2dcYhvbHV-M-1.png",
         author: "Sober Ali",
         date: "21 August,2020",
         title: "Top esssential Trends in 2021",
@@ -42,7 +43,12 @@ const LatestBlog = ({ title }) => {
                 className="
                 flex flex-row gap-[56px]"
             >
-
+                {blogContent.map((content, i) => (
+                    <VerticalBlogItem
+                        key={i}
+                        content={content}
+                    />
+                ))}
             </main>
         </section>
     );

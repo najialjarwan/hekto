@@ -21,6 +21,7 @@ export default defineConfig({
           '@ui': path.resolve(__dirname, './src/components/ui'),
             '@cards': path.resolve(__dirname, './src/components/ui/cards'),
             '@product': path.resolve(__dirname, './src/components/ui/product'),
+            '@blog': path.resolve(__dirname, './src/components/ui/blog'),
         '@data': path.resolve(__dirname, './src/data'),
         '@pages': path.resolve(__dirname, './src/pages'),
         '@utils': path.resolve(__dirname, './src/utils'),
