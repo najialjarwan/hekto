@@ -29,6 +29,7 @@ const LatestBlog = ({ title }) => {
         <section
             data-title={title}
             className="
+            mb-[115px]
             flex flex-col items-start gap-20"
         >
 
