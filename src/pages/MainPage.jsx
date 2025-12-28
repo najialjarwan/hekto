@@ -8,6 +8,7 @@ import TrendingProducts from "@sections/TrendingProducts.jsx";
 import DiscountItem from "@sections/DiscountItem.jsx";
 import TopCategories from "@sections/TopCategories.jsx";
 import Button from "@ui/Button.jsx"
+import LatestBlog from "@sections/LatestBlog.jsx";
 
 const MainPage = () => {
     return (
@@ -58,7 +59,7 @@ const MainPage = () => {
                 />
             </div>
 
-            
+            <LatestBlog title = "Latest Blog" />
 
         </main>
     );
