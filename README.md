@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-⭐ Hekto • E-commerce landing page
+⭐ Hekto • E-Commerce Landing Page
 </h1>
 
 
