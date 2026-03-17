@@ -32,29 +32,25 @@
 
 
 ## ⚙️ Tech Stack & Tools
-<p>
-  <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="40" title="HTML5" />
-<img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="40" title="CSS3" />
-<img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="40" title="JavaScript (ES6+)" />
-<img src="https://najialjarwan.vercel.app/external-icons/tailwindcss.svg" height="40" title="Tailwind CSS" />
-<img src="https://najialjarwan.vercel.app/external-icons/react.svg" height="40" title="React" />
-<img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="40" title="VS Code" />
-<img src="https://najialjarwan.vercel.app/external-icons/git.svg" height="40" title="Git" />
-<img src="https://najialjarwan.vercel.app/external-icons/figma.svg" height="40" title="Figma" />
-</p>
 
 <table>
   <tr>
     <td><strong>Frontend</strong></td>
-    <td></td>
+    <td>
+      <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="40" title="HTML5" />
+      <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="40" title="CSS3" />
+      <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="40" title="JavaScript (ES6+)" />
+      <img src="https://najialjarwan.vercel.app/external-icons/tailwindcss.svg" height="40" title="Tailwind CSS" />
+      <img src="https://najialjarwan.vercel.app/external-icons/react.svg" height="40" title="React" />
+    </td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td><strong>⚠️ No Backend at the moment</strong></td>
+    <td><strong>⚠️ No Backend</strong></td>
   </tr>
   <tr>
     <td><strong>Database</strong></td>
-    <td><strong>⚠️ No Database at the moment</strong></td>
+    <td><strong>⚠️ No Database</strong></td>
   </tr>
   <tr>
     <td><strong>Hosting</strong></td>
@@ -62,7 +58,11 @@
   </tr>
     <tr>
     <td><strong>Tools</strong></td>
-    <td></td>
+    <td>
+      <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="40" title="VS Code" />
+      <img src="https://najialjarwan.vercel.app/external-icons/git.svg" height="40" title="Git" />
+      <img src="https://najialjarwan.vercel.app/external-icons/figma.svg" height="40" title="Figma" />
+    </td>
   </tr>
 </table>
 
