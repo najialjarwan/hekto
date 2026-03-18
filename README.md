@@ -44,18 +44,6 @@
       <img src="https://najialjarwan.vercel.app/external-icons/react.svg" height="40" title="React" />
     </td>
   </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td><strong>No Backend</strong></td>
-  </tr>
-  <tr>
-    <td><strong>Database</strong></td>
-    <td><strong>No Database</strong></td>
-  </tr>
-  <tr>
-    <td><strong>Hosting</strong></td>
-    <td><strong>Not hosted at the moment</strong></td>
-  </tr>
     <tr>
     <td><strong>Tools</strong></td>
     <td>
