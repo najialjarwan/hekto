@@ -56,6 +56,23 @@
 </table>
 
 
+## 🗂️ Project Structure
+
+```bash
+src/
+├── assets/          # Images, icons, static files
+├── components/      # Reusable UI components
+│   ├── layout/      # Navbar, footer, layout wrappers
+│   ├── sections/    # Page sections (home, features, etc.)
+│   └── ui/          # Buttons, cards, reusable UI pieces
+├── pages/           # Application pages
+├── data/            # Static data / constants
+├── utils/           # Helper functions
+├── App.jsx
+└── main.jsx
+```
+
+
 ## 💡 Problem / Motivation
 
 Hekto was built after graduation as a practical exercise in translating professional Figma designs into clean, production-ready frontend code using React and Tailwind CSS. The goal was to improve UI implementation accuracy and strengthen my workflow for turning static designs into responsive interfaces.
