@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="200">
+  <img src="src/assets/images/hekto-logo.png" width="200">
 </div>
 
 
