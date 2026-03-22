@@ -47,7 +47,7 @@
       <img src="https://najialjarwan.vercel.app/external-icons/react.svg" height="40" title="React" />
     </td>
     <td>
-      <img src="https://najialjarwan.vercel.app/external-icons/vercel.svg" height="40" title="Vercel" />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://najialjarwan.vercel.app/external-icons/vercel.svg" height="40" title="Vercel" />
     </td>
     <td>
       <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="40" title="VS Code" />
