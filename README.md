@@ -21,13 +21,12 @@
 
 ## 🔷 Project Overview
 <table align="center">
-<tr><td>Type</td><td>personal project</td></tr>
-<tr><td>My Role</td><td>front-end</td></tr>
-<tr><td>Platform</td><td>website</td></tr>
-<tr><td>Duration</td><td>dec 13 - dec 28</td></tr>
-<tr><td>Status</td><td>archived</td></tr>
+<tr><td>Type</td><td>Personal Project</td></tr>
+<tr><td>My Role</td><td>Front-End</td></tr>
+<tr><td>Platform</td><td>Website</td></tr>
+<tr><td>Duration</td><td>Dec 13 - Dec 28</td></tr>
+<tr><td>Status</td><td>Archived</td></tr>
 <tr><td>Version</td><td>1.0.0</td></tr>
-<tr><td>Live Demo</td><td>No public live deployment available</td></tr>
 </table>
 
 
@@ -36,6 +35,7 @@
 <table align="center">
   <tr>
     <td><strong>Frontend</strong></td>
+    <td><strong>Hosting (Planned)</strong></td>
     <td><strong>Tools</strong></td>
   </tr>
   <tr>
@@ -45,6 +45,9 @@
       <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="40" title="JavaScript (ES6+)" />
       <img src="https://najialjarwan.vercel.app/external-icons/tailwindcss.svg" height="40" title="Tailwind CSS" />
       <img src="https://najialjarwan.vercel.app/external-icons/react.svg" height="40" title="React" />
+    </td>
+    <td>
+      <img src="https://najialjarwan.vercel.app/external-icons/vercel.svg" height="40" title="Vercel" />
     </td>
     <td>
       <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="40" title="VS Code" />
